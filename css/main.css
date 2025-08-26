@@ -2131,6 +2131,7 @@
   padding: 70px 0;
   position: relative;
   padding-bottom: 80px !important;
+  color:white;
 }
 
 .blog .box {
@@ -2259,6 +2260,7 @@
 /* contact_us */
 .contact_us{
   padding: 70px 0;
+  color:white;
 }
 .contact_us .form{
   padding: 70px 0;
@@ -2437,6 +2439,7 @@
 }
 .about{
   padding: 70px 0 !important;
+  color:white;
 }
 .about img{
   border-radius: 20px;
@@ -2631,4 +2634,5 @@
 .input_fooot button{
   border: 2px solid var(--btnColor);
 }
+
 
