@@ -308,7 +308,6 @@
 
     /* Premium Home Section */
     .home {
-      background: var(--dark-gradient-enhanced);
       padding-top: calc(var(--header-height) + 4rem);
       padding-bottom: 4rem;
       overflow: hidden;
@@ -2632,3 +2631,4 @@
 .input_fooot button{
   border: 2px solid var(--btnColor);
 }
+
